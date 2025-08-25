@@ -1,6 +1,6 @@
 import React from "react";
 
-function Card({username , price}) {
+function Card({username , price = "0"}) {
     console.log(username);
     
 
