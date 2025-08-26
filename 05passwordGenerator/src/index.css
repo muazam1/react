@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.copybtn{
+    background-color: blue;
+}
+.copybtn:hover {
+    background-color: lightblue;
+}
